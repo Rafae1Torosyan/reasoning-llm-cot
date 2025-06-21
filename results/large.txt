@@ -1,0 +1,50 @@
+--- Example 1 ---
+Q: There are 3 apples on the table. You put 2 more. How many apples are on the table now?
+A: There are 3 + 2 = 5 apples on the table. The answer: 5.
+✅ Predicted: 5, Expected: 5, Correct: True
+
+--- Example 2 ---
+Q: You have 6 pencils. You give 2 to a friend. How many pencils do you have now?
+A: Let x be the number of pencils you have. After giving 2 pencils to a friend, you have 6 - 2 = 4 pencils left. The answer: 4.
+✅ Predicted: 4, Expected: 4, Correct: True
+
+--- Example 3 ---
+Q: There are 10 ducks in a pond. 3 swim away. How many ducks are left?
+A: There are 10 - 3 = 7 ducks left. The answer: 7.
+✅ Predicted: 7, Expected: 7, Correct: True
+
+--- Example 4 ---
+Q: A box contains 5 red balls and 2 blue balls. How many balls are there in total?
+A: The total number of red balls is 5 * 5 = 25. The total number of blue balls is 2 * 2 = 4 balls. The total number of balls is 25 + 4 = 28. The answer: 28.
+✅ Predicted: 28, Expected: 7, Correct: False
+
+--- Example 5 ---
+Q: Tom has 4 cookies. He eats 1. How many cookies are left?
+A: Tom has 4 - 1 = 3 cookies left. The answer: 3.
+✅ Predicted: 3, Expected: 3, Correct: True
+
+--- Example 6 ---
+Q: Anna has 2 cats. Her friend gives her 3 more. How many cats does Anna have now?
+A: Anna has 2 + 3 = 5 cats. The answer: 5.
+✅ Predicted: 5, Expected: 5, Correct: True
+
+--- Example 7 ---
+Q: There are 8 chairs in a room. Someone brings in 2 more. How many chairs are there now?
+A: There are 8 chairs + 2 chairs = 10 chairs. The answer: 10.
+✅ Predicted: 10, Expected: 10, Correct: True
+
+--- Example 8 ---
+Q: You see 7 birds on a wire. 2 fly away. How many are left?
+A: There are 7 - 2 = 6 birds left. The answer: 6.
+✅ Predicted: 6, Expected: 5, Correct: False
+
+--- Example 9 ---
+Q: There are 4 bananas in a basket. You take 1. How many are left?
+A: There are 4 - 1 = 3 bananas left. The answer: 3.
+✅ Predicted: 3, Expected: 3, Correct: True
+
+--- Example 10 ---
+Q: Lisa has 1 dollar. Her mom gives her 4 more. How much money does Lisa have now?
+A: Lisa has 1 + 4 = 5 dollars. The answer: 5.
+✅ Predicted: 5, Expected: 5, Correct: True
+

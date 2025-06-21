@@ -1,0 +1,20 @@
+--- Example 1 ---
+Q: There are 4 oranges on the table. You take 1. How many oranges are left?
+A: There are 4 - 1 = 3 oranges left. The answer: 3.
+
+--- Example 2 ---
+Q: A box has 6 crayons. 2 fall out. How many crayons are still in the box?
+A: The box has 6 - 2 = 5 crayons left. The answer: 5.
+
+--- Example 3 ---
+Q: You have 3 candies. A friend gives you 2 more. How many candies do you have now?
+A: The total number of candies is 3 + 2 = 4. The answer: 4.
+
+--- Example 4 ---
+Q: There are 5 ducks in a pond. 1 swims away. How many ducks are left in the pond?
+A: There are 5 - 1 = 4 ducks left in the pond. The answer: 4.
+
+--- Example 5 ---
+Q: Lisa has 2 balloons. She gets 3 more from her mom. How many balloons does she have in total?
+A: Lisa has 2 balloons and gets 3 more from her mom for a total of 2 + 3 = 5 balloons. The answer: 5.
+

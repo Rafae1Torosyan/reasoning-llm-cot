@@ -1,0 +1,50 @@
+--- Example 1 ---
+Q: There are 3 apples on the table. You put 2 more. How many apples are on the table now?
+A: There are 3 + 2 = 5 apples on the table. So, there are 5 + 3 = 9 apples on the table. The answer: 9.
+✅ Predicted: 9, Expected: 5, Correct: False
+
+--- Example 2 ---
+Q: You have 6 pencils. You give 2 to a friend. How many pencils do you have now?
+A: You have 6 + 2 = 8 pencils. You gave 2 to a friend, so you now have 8 + 2 = 10 pencils. The answer: 10.
+✅ Predicted: 10, Expected: 4, Correct: False
+
+--- Example 3 ---
+Q: There are 10 ducks in a pond. 3 swim away. How many ducks are left?
+A: There are 10 - 3 = 6 ducks left. There are 10 - 6 = 6 ducks left. The answer: 6.
+✅ Predicted: 6, Expected: 7, Correct: False
+
+--- Example 4 ---
+Q: A box contains 5 red balls and 2 blue balls. How many balls are there in total?
+A: The total number of red and blue balls is 5 + 2 = 7 balls. The total number of red and blue balls is 7 + 2 = 10 balls. The total number of balls in the box is 5 + 10 = 15 balls. The answer
+✅ Predicted: 15, Expected: 7, Correct: False
+
+--- Example 5 ---
+Q: Tom has 4 cookies. He eats 1. How many cookies are left?
+A: He ate 1 so he has 4 - 1 = 2 cookies left. He has 2 cookies and he has 4 so he has 2 - 1 = 2 cookies left. The answer: 2.
+✅ Predicted: 2, Expected: 3, Correct: False
+
+--- Example 6 ---
+Q: Anna has 2 cats. Her friend gives her 3 more. How many cats does Anna have now?
+A: Anna has 2 + 3 = 5 cats. Anna has 5 + 3 = 7 cats. The answer: 7.
+✅ Predicted: 7, Expected: 5, Correct: False
+
+--- Example 7 ---
+Q: There are 8 chairs in a room. Someone brings in 2 more. How many chairs are there now?
+A: There are 8 + 2 = 10 chairs in the room. There are now 10 + 8 = 22 chairs. The answer: 22.
+✅ Predicted: 22, Expected: 10, Correct: False
+
+--- Example 8 ---
+Q: You see 7 birds on a wire. 2 fly away. How many are left?
+A: There are 7 - 2 = 5 birds left. The answer: 5.
+✅ Predicted: 5, Expected: 5, Correct: True
+
+--- Example 9 ---
+Q: There are 4 bananas in a basket. You take 1. How many are left?
+A: There are 4 - 1 = 2 bananas left. There are 2 - 1 = 2 bananas left. The answer: 2.
+✅ Predicted: 2, Expected: 3, Correct: False
+
+--- Example 10 ---
+Q: Lisa has 1 dollar. Her mom gives her 4 more. How much money does Lisa have now?
+A: Lisa has 1 dollar because 1 + 4 = 1. Lisa has $1 because 1 + 1 = 1. The answer: 1.
+✅ Predicted: 1, Expected: 5, Correct: False
+
